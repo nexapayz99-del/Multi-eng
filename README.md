@@ -1,11 +1,8 @@
-# TG Multi Manager Bot
+# AAKASH BOT
 
-Multi-account Telegram automation:
+
 - Session import: hex, string, Telethon/Pyrogram, .session, .json, .zip
-- Auto reaction + view on any channel (up to 15)
-- Auto VC join using PyTgCalls (mic muted, silent WAV)
-- Indian name/DP randomizer from ZIP
-- Paid plans: per-user quota for reactions, views, VC joins, channels, accounts
+- 
 - Owner panel, admin tier, pseudo-owner tier
 - Broadcast, health check, spam check via @SpamBot
 
